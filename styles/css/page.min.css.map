@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"page.min.css"}
+{"version":3,"sourceRoot":"","sources":["../../sass/page.scss"],"names":[],"mappings":"AAAA,EACI,sBACA,qBACA,mBACA,WAIJ,IACI,WACA,sBAGJ,MACI","file":"page.min.css"}
